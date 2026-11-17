@@ -1,0 +1,1 @@
+I used ChatGPT to help interpret the assignment, develop and revise prompts, brainstorm challenging homeowner queries, write Python code, troubleshoot API errors, and prepare output files. I ran the code and reviewed the results.
